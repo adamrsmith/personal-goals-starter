@@ -3,7 +3,7 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Why? Spending the time to get things done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
 # Overarching Goals
 1. Contribute to Open Source
@@ -13,7 +13,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Learn about _______
 6. Be kind
 
-# November 00, 2014
+# Janurary 1, 2019
 
 ### This Week's Goal: Be Awesome.
 
@@ -26,7 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
-### Things I'll Do This Month: November 2014
+### Things I'll Do This Month: Jan 2019
 - [ ] Read a book
 - [x] Create a website for my dog
 - [ ] Teach my dog how to fetch me beer
