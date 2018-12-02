@@ -13,7 +13,7 @@ Why? Spending the time to get things done. I'm open sourcing these goals for acc
 5. Learn about _______
 6. Be kind
 
-# Janurary 1, 2019
+# Dec 31, 2019
 
 ### This Week's Goal: Be Awesome.
 
@@ -28,7 +28,6 @@ Why? Spending the time to get things done. I'm open sourcing these goals for acc
 
 ### Things I'll Do This Month: Jan 2019
 - [ ] Read a book
-- [x] Create a website for my dog
 - [ ] Teach my dog how to fetch me beer
 - [ ] Build a castle out of cardboard
 - [ ] Submit a proposal for a thing
