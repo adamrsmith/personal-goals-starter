@@ -5,6 +5,10 @@ Personal goals made open source.
 
 Why? Spending the time to get things done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
+
+personal site - about me
+Race.guru
+
 # Overarching Goals
 1. Contribute to Open Source
 2. Write more blog posts
